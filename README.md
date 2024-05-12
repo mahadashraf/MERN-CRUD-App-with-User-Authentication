@@ -11,7 +11,7 @@ This project is a MERN (MongoDB, Express.js, React.js, Node.js) stack applicatio
 
 
 When you include this in your README file, it will render with syntax highlighting applied to the bash code:
-
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
 ```bash
 npm install
 
