@@ -12,14 +12,14 @@ This project is a MERN (MongoDB, Express.js, React.js, Node.js) stack applicatio
 
 
 ```bash
-\```shell
 npm install
-\```
 ```
 
 3. Once the packages are installed, start the development server by running:
 
-
+```bash
+npm run dev
+```
 
 ## Server Setup
 
@@ -27,7 +27,15 @@ npm install
 
 2. Install the required npm packages by running:
 
-3. After the packages are installed, start the server by running:
+```bash
+npm install
+```
+
+4. After the packages are installed, start the server by running:
+
+```bash
+npm start
+```
 
 ## Additional Configuration
 
