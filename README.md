@@ -9,7 +9,10 @@ This project is a MERN (MongoDB, Express.js, React.js, Node.js) stack applicatio
 
 2. Install the required npm packages by running:
 
-## npm install
+```bash
+npm install
+```
+
 
 3. Once the packages are installed, start the development server by running:
 
